@@ -15,6 +15,6 @@ end
 
 def all_phrases
   puts "It's-a me, Mario!"
-  puts "Thank you Mario! But Our Princess Is In Another Castle!"
+  puts "Thank you Mario! But Our Princess Is In Another Castle!\n/"
   puts "It's Dangerous To Go Alone! Take This."
 end  
