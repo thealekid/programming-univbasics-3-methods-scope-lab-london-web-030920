@@ -13,7 +13,7 @@ def link
   puts phrase
 end
 
-def all phrases
+def all_phrases
   puts "It's-a me, Mario!"
   puts "Thank you Mario! But Our Princess Is In Another Castle!"
   puts "It's Dangerous To Go Alone! Take This."
