@@ -14,7 +14,7 @@ def link
 end
 
 def all phrases
-  puts "it's-a me, Mario!"
+  puts "It's-a me, Mario!"
   puts "Thank you Mario! But Our Princess"
   puts "It's Dangerous To Go Alone! Take This."
 end  
