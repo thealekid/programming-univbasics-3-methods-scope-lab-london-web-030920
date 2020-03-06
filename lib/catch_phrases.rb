@@ -13,5 +13,8 @@ def link
   puts phrase
 end
 
-def 
-  
+def all phrases
+  puts "it's-a me, Mario!"
+  puts "Thank you Mario! But Our Princess"
+  puts "It's Dangerous To Go Alone! Take This."
+end  
